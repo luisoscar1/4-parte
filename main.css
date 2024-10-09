@@ -1,0 +1,22 @@
+/*la verdad no entendi lo ultimo de la recursivida entonces solo pude hacer esto, si lo intente pero nuca se llego a
+realizar como se queria, se que mefalta map pero no pude tampoco y con el tiempo que me queda*/
+.container {
+  border-radius: 25px;
+  background-color: #5dde99;
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.container li:nth-child(1) {
+  background-color: #164797;
+}
+.container li:nth-child(2) {
+  background-color: #ff6f61;
+}
+.container li:nth-child(3) {
+  background-color: #f4d03f;
+}
+.container li:nth-child(4) {
+  background-color: #9b59b6;
+}
